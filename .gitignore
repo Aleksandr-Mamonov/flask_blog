@@ -1,0 +1,12 @@
+venv/
+*.pyc
+.DS_Store
+__pycache__/
+task.txt
+
+flaskblog/static/profile_pics/*.jpg
+!flaskblog/static/profile_pics/default.jpg
+
+# Flask stuff:
+instance/
+.webassets-cache
